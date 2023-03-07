@@ -24,7 +24,7 @@
 
 # 📖 To Do List Project <a name="about-project"></a>
 
-**To Do List ** allows users to add, update and remove tasks from the list
+**test-Project ** Performs tests on calculator, reverseString, Capitalized and stringLength functions
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -36,7 +36,6 @@
   <summary>Languages</summary>
   <ul>
     <li>HTML</li>
-    <li>CSS</li>
     <li>Javascript</li>
   </ul>
 </details>
@@ -61,7 +60,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-#### <a href="https://kamranahmad123.github.io/To-Do-Structure/">Live Demo Link</a>
+#### <a href="https://kamranahmad123.github.io/test-Project/">Live Demo Link</a>
 
 
 
