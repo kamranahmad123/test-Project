@@ -22,7 +22,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 To Do List Project <a name="about-project"></a>
+# 📖 Test Project <a name="about-project"></a>
 
 **test-Project ** Performs tests on calculator, reverseString, Capitalized and stringLength functions
 
@@ -51,8 +51,10 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **Add and delete daily task list**
-- **mark tasks as completed**
+- **Reverse string and test**
+- **Return string length and perform test**
+- **Capitalize string and perform test**
+- **Perform four Arthimatic operations and test**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
